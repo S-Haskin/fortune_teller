@@ -1,1 +1,2 @@
 # fortune_teller
+hi
